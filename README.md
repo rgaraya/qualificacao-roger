@@ -1,0 +1,4 @@
+qualificacao-roger
+==================
+
+Latex
